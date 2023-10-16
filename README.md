@@ -6,7 +6,7 @@ SmartPhone Inventory Pro is a robust, user-friendly inventory management system 
 
 - Populate the inventory either manually or from a pre-defined file.
 - Display smartphones of a particular brand.
-- Process buying and returning items transactions.
+- Process buying and returning item transactions.
 - Display all the items in the inventory.
 - An intuitive menu system for user interaction.
 
@@ -29,7 +29,6 @@ git clone https://github.com/myahmadian/PhoneInventoryPro.git
 
 ## Prerequisites
     Ensure you have the following software installed on your local machine:
-
     - C Compiler (gcc recommended)
 
 ## Installation

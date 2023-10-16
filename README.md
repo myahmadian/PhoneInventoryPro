@@ -48,9 +48,9 @@ We welcome contributions! Please see our contributing guidelines for details on 
 License
 This project is licensed under the MIT License; see the LICENSE file for details.
 
-Contact
-Alireza Ahmadian
-alireza.ahmadian69@gmail.com
-www.linkedin.com/in/ahmadian-alireza
+Contact:
+    - Alireza Ahmadian
+    - alireza.ahmadian69@gmail.com
+    - www.linkedin.com/in/ahmadian-alireza
 
 Project Link: https://github.com/myahmadian/PhoneInventoryPro

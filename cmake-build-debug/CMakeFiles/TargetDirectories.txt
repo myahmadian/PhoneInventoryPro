@@ -1,0 +1,3 @@
+C:/College/Work/Project/PhoneInventoryPro/cmake-build-debug/CMakeFiles/PhoneInventoryPro.dir
+C:/College/Work/Project/PhoneInventoryPro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/College/Work/Project/PhoneInventoryPro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
